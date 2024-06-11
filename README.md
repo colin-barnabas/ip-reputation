@@ -1,4 +1,4 @@
-[Project Honey Port IPs](https://www.projecthoneypot.org/list_of_ips.php)
+[Project Honey Pot IPs](https://www.projecthoneypot.org/list_of_ips.php)
 ```shell
 $ local IPADDRS=(185.222.58.79 162.159.134.233 45.117.141.21 5.180.183.170 103.48.136.5)
 $ ./ip-reputation $IPADDRS
